@@ -1,3 +1,15 @@
+Boilerplate for a general application that requires user-generated accounts.
+It includes a user database, auth with a custom credentials provider, register/signup forms, client/server form validation, and sessions,
+using the following technology stack:
+
+- React 19
+- Next 15
+- Neon (serverless PostgreSQL) as the database.
+- Drizzle ORM for database interactions.
+- NextAuth for authentication and session management.
+- react-hook-form and Zod for form validation.
+- Tailwind v4 with shadcn components
+  
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
